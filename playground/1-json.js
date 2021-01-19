@@ -18,4 +18,4 @@ user.title='gg'
 user.author='ss'
 const uJ=JSON.stringify(user)
 fs.writeFileSync('1-json.json',uJ )
-console.log(user)
+  console.log(user)
